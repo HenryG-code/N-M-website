@@ -1,0 +1,1 @@
+alert("This website contains cookies. The cookies will be deleted as soon as the browser closes.")
